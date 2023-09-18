@@ -177,6 +177,8 @@ nav {
   justify-content: space-around;
   max-width: 95rem;
   margin: 0 auto;
+  border-radius: 25px;
+  padding: 5rem 5rem 5rem 5rem;
 }
 .sec-padding {
   padding: 8rem 0 10rem 0;
@@ -234,9 +236,6 @@ nav {
   transform: scale(1.05);
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.19), 0 16px 16px rgba(0, 0, 0, 0.23);
 }
-#our-service {
-  background-color: #ee6f57;
-}
 .bars {
   height: max-content;
   display: flex;
@@ -276,19 +275,12 @@ nav {
 .txt-container p {
   font-size: 2.3rem;
 }
-#benefits {
-  background-color: #f84848;
-}
 #benefits iframe {
   outline: 0;
   border: none;
   width: 100%;
   border-radius: 0.4rem;
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.19), 0 16px 16px rgba(0, 0, 0, 0.23);
-}
-#contact {
-  background-color: #cb3737;
-  color: #fafafa;
 }
 footer {
   font-size: 1.4rem;
